@@ -2,7 +2,7 @@
 
 **Noctiflix** is a minimalist movie discovery app built with React and The Movie Database (TMDb) API. It lets you search for movies, explore posters, and view short descriptions with a clean, fast, and dark-themed interface — perfect for midnight movie hunters.
 
-![Noctiflix Logo](./logo.png)
+![Noctiflix Logo](./noctiflix.png)
 
 ## ✨ Features
 
